@@ -8,6 +8,8 @@ contact : celsowm at gmail dot com
 
 AutôMeta (automatic meta data annotation) is an environment for semi-automatic (or automatic) annotation and meta-annotation of documents for publishing on the Web using  RDFa,  a W3C recommended annotation language. It also includes a RDFa extraction tool  to provide the user with a view of the annotated triples. It is available in both *CLI* (Command Line Interface) and *GUI* (Graphical User Interface) interfaces. 
 
+Last download : http://autometa.googlecode.com/files/Aut%C3%B4Meta_0.3c.rar (May 2013)
+
 GUI mode (windows, linux, ios)
 
 - unrar "dist" folder
