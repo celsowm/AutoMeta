@@ -3,8 +3,10 @@ AutoMeta
 
 A Semantic Annotation Tool
 
-see more http://code.google.com/p/autometa/
+see more https://github.com/celsowm/AutoMeta#autometa
 contact : celsowm at gmail dot com
+
+AutôMeta (automatic meta data annotation) is an environment for semi-automatic (or automatic) annotation and meta-annotation of documents for publishing on the Web using  RDFa,  a W3C recommended annotation language. It also includes a RDFa extraction tool  to provide the user with a view of the annotated triples. It is available in both *CLI* (Command Line Interface) and *GUI* (Graphical User Interface) interfaces. 
 
 GUI mode (windows, linux, ios)
 
