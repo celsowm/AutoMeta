@@ -55,6 +55,9 @@ public class Annotator{
         StringBuilder typeof = new StringBuilder();
         StringBuilder propertyRDFa = new StringBuilder();
         Iterator triplesIt = triplas.iterator();
+        
+        String firstId = MetaAnnotator.getNextId();
+        
         do
         {
             if(!triplesIt.hasNext())
@@ -71,7 +74,7 @@ public class Annotator{
                 propertyRDFa.append(commonTripletoRdfa(commonTriple));
             }
         } while(true);
-        retorno.append(LESSTHANSIGN).append(SPAN).append(" id='").append(MetaAnnotator.getNextId()).append("' about='").append("").append(Util.getPrefixed(entity));
+        retorno.append(LESSTHANSIGN).append(SPAN).append(" id='").append(firstId).append("' about='").append("").append(Util.getPrefixed(entity));
         if(!typeof.toString().isEmpty())
             retorno.append("' typeof='").append(typeof.toString().trim());
         else
