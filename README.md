@@ -3,12 +3,12 @@ AutoMeta
 
 A Semantic Annotation Tool
 
-see more https://github.com/celsowm/AutoMeta#autometa
-contact : celsowm at gmail dot com
+Last Download : https://github.com/celsowm/AutoMeta/releases/download/v0.4a/AutoMeta_0.4a.rar (Jun 2014)
+
 
 AutôMeta (automatic meta data annotation) is an environment for semi-automatic (or automatic) annotation and meta-annotation of documents for publishing on the Web using  RDFa,  a W3C recommended annotation language. It also includes a RDFa extraction tool  to provide the user with a view of the annotated triples. It is available in both *CLI* (Command Line Interface) and *GUI* (Graphical User Interface) interfaces. 
 
-Last Download : https://github.com/celsowm/AutoMeta/releases/download/untagged-465dcc68025129b13177/AutoMeta_0.4.rar (Jun 2014)
+see more https://github.com/celsowm/AutoMeta#autometa | contact : celsowm at gmail dot com
 
 GUI mode (windows, linux, ios)
 
