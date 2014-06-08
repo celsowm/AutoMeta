@@ -82,7 +82,7 @@
                 <Property name="editable" type="boolean" value="false"/>
                 <Property name="text" type="java.lang.String" resourceKey="jDocumentTextField.text"/>
                 <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
-                  <Color id="Cursor Default"/>
+                  <Color id="Default Cursor"/>
                 </Property>
                 <Property name="name" type="java.lang.String" value="jDocumentTextField" noResource="true"/>
               </Properties>
@@ -92,7 +92,7 @@
                 <Property name="editable" type="boolean" value="false"/>
                 <Property name="text" type="java.lang.String" resourceKey="jOntologyTextField.text"/>
                 <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
-                  <Color id="Cursor Default"/>
+                  <Color id="Default Cursor"/>
                 </Property>
                 <Property name="name" type="java.lang.String" value="jOntologyTextField" noResource="true"/>
               </Properties>
@@ -102,7 +102,7 @@
                 <Property name="icon" type="javax.swing.Icon" resourceKey="jOntologyOpenBtn.icon"/>
                 <Property name="text" type="java.lang.String" resourceKey="jOntologyOpenBtn.text"/>
                 <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
-                  <Color id="Cursor Default"/>
+                  <Color id="Default Cursor"/>
                 </Property>
                 <Property name="name" type="java.lang.String" value="jOntologyOpenBtn" noResource="true"/>
               </Properties>
@@ -115,7 +115,7 @@
                 <Property name="icon" type="javax.swing.Icon" resourceKey="jDocumentOpenBtn.icon"/>
                 <Property name="text" type="java.lang.String" resourceKey="jDocumentOpenBtn.text"/>
                 <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
-                  <Color id="Cursor Default"/>
+                  <Color id="Default Cursor"/>
                 </Property>
                 <Property name="maximumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
                   <Dimension value="[159, 33]"/>
@@ -474,7 +474,7 @@
                         <Property name="icon" type="javax.swing.Icon" resourceKey="jRunButton.icon"/>
                         <Property name="text" type="java.lang.String" resourceKey="jRunButton.text"/>
                         <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
-                          <Color id="Cursor Default"/>
+                          <Color id="Default Cursor"/>
                         </Property>
                         <Property name="name" type="java.lang.String" value="jRunButton" noResource="true"/>
                       </Properties>
@@ -510,7 +510,7 @@
                         <Property name="text" type="java.lang.String" resourceKey="jRdfsLabelCheckBox.text"/>
                         <Property name="toolTipText" type="java.lang.String" resourceKey="jRdfsLabelCheckBox.toolTipText"/>
                         <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
-                          <Color id="Cursor Default"/>
+                          <Color id="Default Cursor"/>
                         </Property>
                         <Property name="focusable" type="boolean" value="false"/>
                         <Property name="horizontalAlignment" type="int" value="2"/>

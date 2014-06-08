@@ -833,7 +833,13 @@ public class MainView extends FrameView {
                 AutoAnnotator autoAnnotator = new AutoAnnotator(documentText, ontology, reasoning, label, exhaustive, reasoner);
                 String rdfa = Manager.getDocumentoAnotado(autoAnnotator); 
 
-                jResultHtml.setText(rdfa);
+                String formattedRdfa = Util.formatXML(rdfa);
+                if(formattedRdfa != null){
+                  jResultHtml.setText(formattedRdfa);  
+                }else{
+                  jResultHtml.setText(rdfa);  
+                }
+
                 File temp = Util.textToTempFile(rdfa);
                 System.out.println(temp.getAbsolutePath());
                 jTableResultados.setModel(Extractor.parseRDFaToTableModel(temp.getAbsolutePath()));
