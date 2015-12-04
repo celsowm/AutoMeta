@@ -14,6 +14,7 @@ GUI mode (windows, linux, ios)
 
 - unrar "dist" folder
 - just open the autometa.jar (requires java)
+- video sample: https://www.youtube.com/watch?v=icVVhugooqM
 
 
 CLI mode
